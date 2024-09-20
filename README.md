@@ -13,7 +13,7 @@
 
 2. git Clone
    ```shell
-   git clone https://github.com/Naam-M/xempire.git
+   git clone https://github.com/smartoolhanif/XEmpire-Bot.git
    cd xempire
    ```
 
